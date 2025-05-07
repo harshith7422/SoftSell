@@ -51,7 +51,6 @@ SoftSell is a modern, single-page, responsive marketing website for a fictional 
 - **Build Tool**: [Vite](https://vitejs.dev/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
 - **Icons**: [React Icons](https://react-icons.github.io/react-icons/)
-- **Animations (optional)**: [Framer Motion](https://www.framer.com/motion/) *(not included but recommended)*
 
 ---
 
