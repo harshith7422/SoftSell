@@ -1,10 +1,10 @@
-# 🧾 SoftSell - Software License Resale Landing Page
+# SoftSell - Software License Resale Landing Page
 
 SoftSell is a modern, single-page, responsive marketing website for a fictional software resale startup. Built using **React.js**, **Vite**, and **Tailwind CSS**, the website includes smooth UI/UX design, mobile responsiveness, and interactive features such as dark/light mode toggle and frontend form validation.
 
 ## 🚀 Live Demo
 
-> 🔗 [Deployed on Vercel](https://softsell.vercel.app) (Replace with actual link after deployment)
+> 🔗 [Deployed on Vercel]([https://softsell.vercel.app](https://soft-sell-alpha.vercel.app/)) (Replace with actual link after deployment)
 
 ---
 
