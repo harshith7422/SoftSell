@@ -2,17 +2,15 @@
 
 SoftSell is a modern, single-page, responsive marketing website for a fictional software resale startup. Built using **React.js**, **Vite**, and **Tailwind CSS**, the website includes smooth UI/UX design, mobile responsiveness, and interactive features such as dark/light mode toggle and frontend form validation.
 
-## 🚀 Live Demo
+## Live Demo
 
-> 🔗 [Deployed on Vercel](https://softsell.vercel.app](https://soft-sell-alpha.vercel.app/)
-
-> 🔗 [Deployed on Vercel]([https://soft-sell-alpha.vercel.app/]) 
+> [Deployed on Vercel]([https://soft-sell-alpha.vercel.app/]) 
 
 ---
 
-## 📑 Features
+## Features
 
-### ✅ Core Sections
+### Core Sections
 
 1. **Hero Section**
    - Clear headline and subheading
@@ -38,16 +36,16 @@ SoftSell is a modern, single-page, responsive marketing website for a fictional 
 
 ### 💡 Bonus Features
 
-- ✅ **Dark/Light Mode Toggle** (top-right button)
-- ✅ **Tailwind CSS Theming**
-- ✅ **Mobile-first Design**
-- ✅ **SEO Meta Tags** (via `index.html`)
-- ✅ **Favicon + Logo Placeholder**
-- ✅ **Vercel Deployment Ready**
+-  **Dark/Light Mode Toggle** (top-right button)
+-  **Tailwind CSS Theming**
+-  **Mobile-first Design**
+-  **SEO Meta Tags** (via `index.html`)
+-  **Favicon + Logo Placeholder**
+-  **Vercel Deployment Ready**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: [React.js](https://reactjs.org/)
 - **Build Tool**: [Vite](https://vitejs.dev/)
@@ -57,7 +55,7 @@ SoftSell is a modern, single-page, responsive marketing website for a fictional 
 
 ---
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
 ### Prerequisites:
 - Node.js (v16+)
