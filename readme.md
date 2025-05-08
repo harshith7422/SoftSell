@@ -4,7 +4,7 @@ SoftSell is a modern, single-page, responsive marketing website for a fictional 
 
 ## Live Demo
 
-> [Deployed on Vercel](https://soft-sell-alpha.vercel.app/) 
+> [Click here to see the demo](https://softsell-azure.vercel.app/)
 
 ---
 
